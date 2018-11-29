@@ -22,6 +22,3 @@ github_username:  rencesar
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-
